@@ -11,5 +11,5 @@ This repository is for submitting assignments for the project **Computer Vision 
 - Before the next assignment, fetch upstream to sync with the main repository.
 
 ## Mentors:
-[Aryan Vora](https://github.com/aryan-vora23)
+[Aryan Vora](https://github.com/aryan-vora23)   
 [Mandar Wayal](https://github.com/mandar7-git)
