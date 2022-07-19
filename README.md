@@ -8,3 +8,7 @@ This repository is for submitting assignments for the project **Computer Vision 
 - In the description, please mention your IITK Roll Number.
 - Create a pull request **only during the submission window**.
 - Before the next assignment, fetch upstream to sync with the main repository.
+
+## Mentors:
+[Aryan Vora](https://github.com/aryan-vora23)   
+[Mandar Wayal](https://github.com/mandar7-git)
