@@ -6,6 +6,7 @@ This repository contains the project **Computer Vision using Tensorflow** offere
 <p  align="center"><a href="https://github.com/kshitijk20/ICG-Computer-Vision-using-Tensorflow/blob/main/Images/1.jpg" /></a></p>
 
 ## 3-Class Face Mask Detection Model
+<p  align="center"><a href="https://github.com/kshitijk20/ICG-Computer-Vision-using-Tensorflow/blob/main/Images/2.jpg" /></a></p>
 
 ## Mentors:
 [Aryan Vora](https://github.com/aryan-vora23)   
