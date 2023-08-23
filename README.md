@@ -3,7 +3,7 @@ This repository contains the project **Computer Vision using Tensorflow** offere
 
 ## CNN Digit Classification Model
 
-<p  align="center"><a href="https://github.com/kshitijk20"><img width="80%" src="https://github.com/kshitijk20/Financial-Sales-Insights-using-Tableau/blob/main/Images/workflow.jpg" /></a></p>
+<p  align="center"><a href="Images/1.jpg" /></a></p>
 
 ## 3-Class Face Mask Detection Model
 
